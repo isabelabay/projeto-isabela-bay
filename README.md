@@ -1,6 +1,5 @@
 # projeto-isabela-bay
-trabalho da isabela 1:d
-//
+
 7. Jogo da Adivinhação
 Descrição: O software deve gerar um número aleatório entre 1 e 100, e o jogador deve tentar adivinhar esse número.
 Especificação: O programa gerará um número aleatório e permitirá que o usuário insira palpites. A cada palpite, o programa informará se o número escolhido pelo jogador é maior ou menor que o número correto, até que o jogador acerte
